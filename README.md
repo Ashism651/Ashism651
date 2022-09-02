@@ -1,12 +1,6 @@
-- 👋 Hi, I’m @Ashism651. I'm just a beginner as coder, I have 5 star in hackerrank in c programming and C++ programming.
+I'm Ashis, pursuing my b.tech in cse. 
+My skills are, programming in c, c++, python, and a fullstack developer using nodejs and mongoDB.
+I also have good knowledge data structure and Algorithms.
+And currently I'm looking for an internship.
 
-
-- 👀 I’m interested in any programming or project related c programming 
-- 🌱 I’m currently learning  Machine Learning.
-- 💞️ I’m looking to collaborate on any project of c/ c++ programming.
-- 📫 How to reach me :- you can just mail me @maity.ashis651@gmail.com, then I will contact you very soon.
-
-<!---
-Ashism651/Ashism651 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My mail: maity.ashis651@gmail.com.
